@@ -18,10 +18,14 @@ Here are some ideas to get you started:
 
 ### hey its me its verity
 
-#### im sanika and i like coding sometimes! feel free to check out my projects or hmu on, well, wherever!
+#### im sanika and i like coding sometimes! 
+<br>
+feel free to check out my projects or hmu on, well, wherever!
 
 🎮 discord: anxtoyareal, immisciblenightcord
+<br>
 ✉️ email: thesanikatiwari@gmail.com, sanika_tiwari@students.edu.sg, sanika@bbsshack.club
+<br>
 also @humaninexistance on slack!
 
 i dont know waht to put here honestly
