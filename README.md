@@ -36,9 +36,12 @@ ________
 <!-- <img width="200" height="200" alt="tinytamakasa" src="https://github.com/user-attachments/assets/8a4f4b5f-bb11-461f-9c30-d7f1ce4c8077" /> 
 -->
 
-<img width="200" height="200" alt="eepykasa" src="https://github.com/user-attachments/assets/0664e5bd-07e3-43db-90bf-076e9cbc0bee" />
+<!-- <img width="200" height="200" alt="eepykasa" src="https://github.com/user-attachments/assets/0664e5bd-07e3-43db-90bf-076e9cbc0bee" />
+-->
 
+<-- <img width="500" height="500" alt="grumpukasa" src="https://github.com/user-attachments/assets/9cb26638-900c-4253-af8b-152b7949dede" />
+-->
 
-⭐ tamakasa is feeling sleepy because sanika is also sleepy!
+⭐ tamakasa is feeling grumpy because sanika has made zero commits today!
 
-last updated: 20:10 (utc+8) | tamakasa updates whenever he wants to. check back later!
+last updated: 11:45 (utc+8) | tamakasa updates whenever he wants to. check back later!
