@@ -39,7 +39,7 @@ ________
 <!-- <img width="200" height="200" alt="eepykasa" src="https://github.com/user-attachments/assets/0664e5bd-07e3-43db-90bf-076e9cbc0bee" />
 -->
 
-<-- <img width="500" height="500" alt="grumpukasa" src="https://github.com/user-attachments/assets/9cb26638-900c-4253-af8b-152b7949dede" />
+<-- <img width="200" height="200" alt="grumpukasa" src="https://github.com/user-attachments/assets/9cb26638-900c-4253-af8b-152b7949dede" />
 -->
 
 ⭐ tamakasa is feeling grumpy because sanika has made zero commits today!
