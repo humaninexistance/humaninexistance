@@ -33,15 +33,15 @@ i dont know waht to put here honestly
 
 ________
 
-<-- <img width="200" height="200" alt="tinytamakasa" src="https://github.com/user-attachments/assets/8a4f4b5f-bb11-461f-9c30-d7f1ce4c8077" /> 
+<!-- <img width="200" height="200" alt="tinytamakasa" src="https://github.com/user-attachments/assets/8a4f4b5f-bb11-461f-9c30-d7f1ce4c8077" /> 
 -->
 
 <!-- <img width="200" height="200" alt="eepykasa" src="https://github.com/user-attachments/assets/0664e5bd-07e3-43db-90bf-076e9cbc0bee" />
 -->
 
-<!-- <img width="200" height="200" alt="grumpukasa" src="https://github.com/user-attachments/assets/9cb26638-900c-4253-af8b-152b7949dede" />
+<-- <img width="200" height="200" alt="grumpukasa" src="https://github.com/user-attachments/assets/9cb26638-900c-4253-af8b-152b7949dede" />
 -->
 
-⭐ tamakasa is feeling happy because sanika has made >= one commit today!
+⭐ tamakasa is feeling grumpy because sanika has made <= one commit today!
 
-last updated: 12:09 (utc+8) | tamakasa updates whenever he wants to. check back later!
+last updated: 10:50 (utc+8) | tamakasa updates whenever he wants to. check back later!
